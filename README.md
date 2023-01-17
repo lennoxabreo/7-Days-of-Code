@@ -8,7 +8,7 @@ The difficulty level will increase as the week goes on, so be prepared to put yo
 2. Each day, check the `Challenges` folder for 2 prompts for that day's coding challenge and pick 1 of the prompts to solve.
 3. You can write the solution in the coding language you prefer. 
 4. Submit it under the `Submission` folder along with your Student ID as the name and commit it to your fork of the repository.
-5. Share your solution with the community by opening a pull request back to the original repository. Make sure to add a tech club executive as a reviewer (@AdamJeddy or @Terminal-Grasshopper). 
+5. Share your solution with the community by opening a pull request back to the original repository. Make sure to add a tech club executive as a reviewer ([@AdamJeddy](https://github.com/AdamJeddy) or [@Terminal-Grasshopper](https://github.com/Terminal-Grasshopper)).
 
 **Make sure to comment your code well !!**
 
