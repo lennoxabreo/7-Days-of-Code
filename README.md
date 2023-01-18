@@ -13,6 +13,7 @@ The difficulty level will increase as the day goes on, so be prepared to put you
 **Make sure to comment your code well !!**
 
 **Dont merge the pull request yourself !!!**
+This could help: https://youtu.be/8lGpZkjnkt4
 
 ## How your submission should look like
 ```C
