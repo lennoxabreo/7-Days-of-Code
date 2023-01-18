@@ -1,15 +1,14 @@
 # Day 1
 ## Question 1A:
+-  
+## Submissions
 // 7879921 
 // 7 days of code  Question A
-package daysofcode; 
-
 public class QuestionA { 
     public static void main(String[] args) {
         int [] arr = {1,2,3,4,5,6,7,8,9,10}; 
         QuestionA i = new QuestionA(); 
-        System.out.println(i.sumEvennumbers(arr));
-        
+        System.out.println(i.sumEvennumbers(arr));  
     }
     public int sumEvennumbers(int [] arr){ 
         int sum = 0; 
@@ -21,9 +20,6 @@ public class QuestionA {
         return sum;
     }
 }
-
--  
-## Submissions
 - Grasshopper
 ---
 ## Question 2: 
